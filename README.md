@@ -6,16 +6,20 @@
 Here are some ideas to get you started:-->
 
 ## I’m Jokebede Coimbra
-🌱 I’m currently learning ...
+
 ## Connect with me:
 <a href="https://www.linkedin.com/in/jokebede-coimbra/" target="_blank">
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg" alt="jokebede-linkedin" style="max-width:100%">
 </a>
+## My Skills:
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="imagem-java" style="max-width:100%">
 
-👯 I’m looking to collaborate on ...
-🤔 I’m looking for help with ...
-💬 Ask me about ...
-📫 How to reach me: ...
-😄 Pronouns: ...
-⚡ Fun fact: ...
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="imagem-java" style="max-width:100%">
+
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="imagem-java" style="max-width:100%">
+
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="imagem-java" style="max-width:100%">
+
+
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="imagem-java" style="max-width:100%">
 
