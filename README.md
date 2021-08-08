@@ -13,7 +13,7 @@ Here are some ideas to get you started:-->
 
 
 <!--- 🔭 I’m currently working on-->
-- 🌱 I’m currently learning  Spring Boot and Android
+- 🌱 I’m currently learning  Java and Angular
 
 
 ## Languages and Tools:
@@ -25,8 +25,8 @@ Here are some ideas to get you started:-->
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="imagem-css" style="max-width:100%">
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="imagem-node" style="max-width:100%">
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="imagem-angular" style="max-width:100%">
-<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="imagem-android" style="max-width:100%">
-<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="imagem-oracle" style="max-width:100%">
+<!--<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="imagem-android" style="max-width:100%">
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="imagem-oracle" style="max-width:100%">-->
 </p>  
 
 
