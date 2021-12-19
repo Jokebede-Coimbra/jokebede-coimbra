@@ -29,9 +29,9 @@ Here are some ideas to get you started:-->
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="imagem-oracle" style="max-width:100%">-->
 </p>  
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jokebede-coimbra&theme=nightowl&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jokebede-coimbra&layout=compact)](https://github.com/jokebede-coimbra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jokebede-coimbra&theme=nightowl&show_icons=true)
+
 
 
 
