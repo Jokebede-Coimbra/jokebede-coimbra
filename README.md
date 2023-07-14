@@ -7,7 +7,7 @@ Here are some ideas to get you started:-->
 
 
 <!--- 🔭 I’m currently working on-->
-- 🌱 I’m currently learning  Java
+- 🌱 I’m currently learning  Java/Spring
 
 <div align="center">
   <a href="https://github.com/jokebede-coimbra">
@@ -21,7 +21,8 @@ Here are some ideas to get you started:-->
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="imagem-java" style="max-width:100%">
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="imagem-spring" style="max-width:100%">
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="imagem-js" style="max-width:100%">
-<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="imagem-html" style="max-width:100%">
+<img align="center" height="30" width="40"
+ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="imagem-html" style="max-width:100%">
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="imagem-css" style="max-width:100%">
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="imagem-angular" style="
 max-width:100%">
