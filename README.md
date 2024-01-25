@@ -7,7 +7,7 @@ Here are some ideas to get you started:-->
 
 
 <!--- 🔭 I’m currently working on-->
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning C#
 
 <div align="center">
   <a href="https://github.com/jokebede-coimbra">
