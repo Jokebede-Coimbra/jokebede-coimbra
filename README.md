@@ -31,7 +31,7 @@
 
 #### Studying in this moment:
 
-![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=black)&nbsp;
 
 #### Databases:
 
