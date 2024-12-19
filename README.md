@@ -4,14 +4,11 @@
 
 
 <div  align="center" style="margin-bottom:100px">
-  <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
+ 
   <img width=40% align="center" src="https://github-readme-stats-dusky-zeta-99.vercel.app/api/top-langs/?username=jokebede-coimbra&show_icons=true&theme=radical&layout=compact" />
 </div>
  &nbsp;
  &nbsp;
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jokebede-coimbra&bg_color=080708&color=9e4c98&line=6d0b7a&point=c87dca&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## My Skills
 
