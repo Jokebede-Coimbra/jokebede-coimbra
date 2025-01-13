@@ -1,12 +1,16 @@
-
+###
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
 &nbsp;&nbsp;&nbsp;
 
+###
 
-<div  align="center" style="margin-bottom:100px">
- 
-  <img width=40% align="center" src="https://github-readme-stats-dusky-zeta-99.vercel.app/api/top-langs/?username=jokebede-coimbra&show_icons=true&theme=radical&layout=compact" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jokebede-coimbra&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jokebede-coimbra&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+###
+
  &nbsp;
  &nbsp;
 
@@ -34,7 +38,6 @@
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-
 
 
 &nbsp;
